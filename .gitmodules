@@ -1,0 +1,3 @@
+[submodule "external/plyer"]
+	path = external/plyer
+	url = https://github.com/kivy/plyer.git
